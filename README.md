@@ -22,5 +22,3 @@ In Reversi, players take turns placing a new disc on the board to form a line (h
   - Ensuring the computer makes its move within 3 seconds for a smooth gaming experience.
 
 By implementing these features, the game provides an engaging and challenging experience for the user while demonstrating advanced programming techniques and data structures.
-
-By implementing these features, the game provides an engaging and challenging experience for the user.
